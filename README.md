@@ -1,4 +1,4 @@
-# 🌸 Aishwarya Y K — HTML & Basic CSS Portfolio (Non-Responsive)
+# 🌸 Aishwarya Y K — HTML & Basic CSS Portfolio
 
 This is a simple, static personal portfolio website built using only **HTML5** and **basic CSS3**, without any responsive design techniques, media queries, or JavaScript.
 
