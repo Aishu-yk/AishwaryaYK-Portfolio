@@ -1,25 +1,27 @@
-# 🌸 Aishwarya Y K — HTML & CSS Portfolio Website
+# 🌼 Aishwarya Y K — Basic HTML & CSS Portfolio (Non-Responsive)
 
-This is a minimalist and fully responsive portfolio website created using only **HTML5** and **basic CSS3** — without any JavaScript or frameworks. It reflects my personal brand, academic path, and technical skills as a student of Artificial Intelligence and Data Science.
+This is a simple, static personal portfolio website built using only **HTML5** and **basic CSS3**, without any responsive design techniques, media queries, or JavaScript.
 
-🔗 **Live Site**: [Click to Visit My Portfolio](https://aishu-yk.github.io/AishwaryaYK-Portfolio-HTML-and-BasicCSS/)
+It showcases my academic background, skills, and projects as a student in **Artificial Intelligence and Data Science**.
 
----
-
-## ✨ Features
-
-- 🎨 Clean and responsive design layout  
-- 🧾 Sections: Home, About, Education, Skills, Projects, and Contact  
-- 💡 Built using semantic HTML tags and organized CSS  
-- 📱 Mobile-friendly and adaptive to all screen sizes  
-- 📂 Easy to maintain and deploy — no frameworks used  
+🔗 **Live Website**: [View Portfolio](https://aishu-yk.github.io/AishwaryaYK-Portfolio-HTML-and-BasicCSS/)
 
 ---
 
-## 🛠️ Built With
+## 📌 About This Project
+
+- 🔹 Built completely using basic HTML and CSS  
+- 🔹 Designed for desktop view only (non-responsive)  
+- 🔹 No frameworks, libraries, or media queries used  
+- 🔹 Straightforward structure ideal for beginners  
+- 🔹 Sections included: Home, About, Education, Skills, Projects, Contact  
+
+---
+
+## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3 (Basic styling, layout, and hover effects)  
-- GitHub Pages (for deployment)  
+- CSS3 (No Flexbox/Grid or responsive design)  
+- GitHub Pages for hosting  
 
 ---
