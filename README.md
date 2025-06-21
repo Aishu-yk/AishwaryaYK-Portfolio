@@ -23,6 +23,3 @@ This is a minimalist and fully responsive portfolio website created using only *
 - GitHub Pages (for deployment)  
 
 ---
-
-## 📁 Folder Structure
-
